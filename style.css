@@ -1,0 +1,42 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black;
+    text-align: center;
+}
+body{
+    background-color: lightcyan;
+}
+
+.topnav{
+    background-color:  lightgreen;
+    overflow:;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a{
+    float: center;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of the links on hover*/
+.topnav a:hover {
+    background-color: lightblue;
+    color: black;
+}
+
+
+/* Add a color to thr active /current link */
+.topnav a.active{
+    background-color: ;
+    color:black;
+}
+
+img{
+    
+    width: 300px;
+    height:400px;
+}
